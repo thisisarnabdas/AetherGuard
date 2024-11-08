@@ -50,15 +50,15 @@ AetherGuard is a sleek, secure, and open-source password manager, built for priv
 
 ## 🚀 Quick Start
 
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/AetherGuard.git
-
-# Navigate to project directory
-cd AetherGuard
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run the application
-python run.py
+1. Clone the repository:
+   ```
+   git clone https://github.com/thisisarnabdas/CSE447.git
+   ```
+3. Install dependencies:
+   ```
+   pip install -r requirements.txt
+   ```
+5. Start the development server:
+   ```
+   python manage.py runserver
+   ```
