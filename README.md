@@ -3,7 +3,7 @@
 ![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-blue.svg)
 ![Cross Platform](https://img.shields.io/badge/Cross%20Platform-%E2%9C%94%EF%B8%8F-brightgreen)
 ![Open Source](https://img.shields.io/badge/Open%20Source-%F0%9F%92%9A-lightgrey)
-![Made With Love](https://img.shields.io/badge/Made%20With%20%E2%9D%A4-Open%20Source-lightblue)
+
 
 **AetherGuard** is a sleek, secure, and open-source password manager, built for privacy advocates and security enthusiasts alike. Powered by modern technologies and licensed under the GPLv3, AetherGuard champions freedom and user autonomy in the digital age. Say goodbye to proprietary password managers and embrace **full control over your digital security**. ✊
 
