@@ -101,3 +101,18 @@ If you find AetherGuard useful, consider:
 - 🤝 **Contributing code**
 - 📣 **Spreading the word**
 
+---
+
+
+## 📞 Contact
+
+Arnab Das - arnab.das@g.bracu.ac.bd
+
+Project Link: https://github.com/thisisarnabdas/CSE447
+
+---
+<p align="center">
+  Made with ❤️ by ARNAB
+</p>
+
+
