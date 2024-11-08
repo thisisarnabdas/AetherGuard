@@ -3,7 +3,7 @@
 # 🛡️ AetherGuard
 
 <p align="center">
-  <img src="https://github.com/thisisarnabdas/AetherGuard/blob/main/logo.png" alt="AetherGuard" width="200"/>
+  <img src="https://github.com/thisisarnabdas/AetherGuard/blob/main/logo.png" alt="AetherGuard" width="500"/>
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
