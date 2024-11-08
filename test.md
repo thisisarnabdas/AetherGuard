@@ -22,15 +22,13 @@ AetherGuard is a sleek, secure, and open-source password manager, built for priv
 
 ---
 
-## ✨ Features
+## 🚀 Features
 
-- 🔒 Zero-knowledge encryption using Argon2 hashing to ensure maximum security
-- 🚀 Fast and lightweight
-- 💾 Local SQLite storage for privacy and data control
-- 🌐 Modern web interface with responsive design for all devices
-- 🔄 Cross-platform compatibility (Windows, macOS, and Linux)
-- 🎨 Customizable themes for personalization
-- 🔄 Auto-sync capability across devices
+- **Cross-Platform**: Available on Windows, macOS, and Linux.
+- **Argon2 Hashing**: Utilizes advanced Argon2 hashing to protect passwords against brute force attacks.
+- **User-Friendly Interface**: Clean and intuitive interface built with HTML, CSS, and JavaScript.
+- **SQLite Database**: Lightweight database for local storage, ensuring your data stays with you.
+- **Flask Backend**: Robust backend built on Python and Flask for handling data securely.
 
 ---
 
