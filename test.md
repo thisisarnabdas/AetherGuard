@@ -18,7 +18,7 @@
 
 ## 🌟 About AetherGuard
 
-AetherGuard is a sleek, secure, and open-source password manager, built with privacy and security at its core. In a world where digital privacy is increasingly commodified, AetherGuard stands as a beacon of digital freedom, putting control back in the hands of users where it belongs. Say goodbye to proprietary password managers and embrace **full control over your digital security**. ✊
+AetherGuard is a sleek, secure, and open-source password manager, built for privacy advocates and security enthusiasts alike. Powered by modern technologies and licensed under the GPLv3, AetherGuard champions freedom and user autonomy in the digital age. Say goodbye to proprietary password managers and embrace full control over your digital security. ✊
 
 ---
 
