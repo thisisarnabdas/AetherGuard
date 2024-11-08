@@ -108,7 +108,7 @@ If you find AetherGuard useful, consider:
 
 Arnab Das - arnab.das@g.bracu.ac.bd
 
-Project Link: https://github.com/thisisarnabdas/CSE447
+Project Link: https://github.com/thisisarnabdas/AetherGuard
 
 ---
 <p align="center">
