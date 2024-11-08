@@ -17,7 +17,7 @@
 
 </div>
 </p>
----
+
 
 ## 🌟 About AetherGuard
 
@@ -52,13 +52,49 @@ AetherGuard is a sleek, secure, and open-source password manager, built for priv
 
 1. Clone the repository:
    ```
-   git clone https://github.com/thisisarnabdas/CSE447.git
+   git clone https://github.com/thisisarnabdas/AetherGuard.git
    ```
-3. Install dependencies:
+2. Navigate to project directory:
+   ```
+   cd AetherGuard
+   ```
+3. Install dependencies
    ```
    pip install -r requirements.txt
    ```
-5. Start the development server:
+
+4. Run the application
    ```
-   python manage.py runserver
+   python run.py
    ```
+---
+
+## 💭 Why Open Source?
+
+> "Privacy is not about having something to hide. Privacy is about having something to protect."
+
+We believe that password management is too crucial to be left to proprietary software. By being open source:
+
+- 🔍 **Our code is transparent and auditable**
+- 🛠️ **Security vulnerabilities can be identified and fixed quickly**
+- 🌍 **Everyone can contribute to making it better**
+- 🆓 **It's free forever, for everyone**
+
+---
+
+## 📜 License
+
+AetherGuard is proudly licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details. This means you're free to use, modify, and distribute this software while keeping it open source.
+
+---
+
+## 🌟 Support the Project
+
+If you find AetherGuard useful, consider:
+
+- ⭐ **Starring this repository**
+- 🐛 **Reporting bugs**
+- 💡 **Suggesting new features**
+- 🤝 **Contributing code**
+- 📣 **Spreading the word**
+
