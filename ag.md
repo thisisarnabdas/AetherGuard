@@ -1,4 +1,3 @@
-Here's the complete markdown code for the enhanced README:
 
 ```markdown
 <div align="center">
