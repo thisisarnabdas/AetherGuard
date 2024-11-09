@@ -108,3 +108,14 @@ We believe that password management is too crucial to be left to proprietary sof
 - 🛠️ **Security vulnerabilities can be identified and fixed quickly**
 - 🌍 **Everyone can contribute to making it better**
 - 🆓 **It's free forever, for everyone**
+
+
+## 📜 License
+<p align="center">
+<img src="https://www.gnu.org/graphics/gplv3-with-text-136x68.png" alt="GPL v3 Logo"/>
+</p>
+
+AetherGuard is proudly licensed under the GNU General Public License v3.0 - see the [LICENSE](./LICENSE)
+ file for details. This means you're free to use, modify, and distribute this software while keeping it open source.
+
+---
