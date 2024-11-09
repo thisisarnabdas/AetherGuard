@@ -120,7 +120,7 @@ AetherGuard is proudly licensed under the GNU General Public License v3.0 - see 
 
 ---
 
-🤝 Support AetherGuard
+## 🤝 Support AetherGuard
 <table>
 <tr>
 <td width="130px" align="center">
