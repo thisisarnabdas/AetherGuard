@@ -4,6 +4,9 @@
 
 <p align="center">
   <img src="https://github.com/thisisarnabdas/AetherGuard/blob/main/logo.png" alt="AetherGuard" width="500"/>
+</p>
+
+<div align="center">
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
@@ -13,40 +16,65 @@
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
-*Your digital fortress 🔒*
+<h3>
+  <em>Your Impenetrable Digital Fortress</em> 🔒
+</h3>
 
 </div>
-</p>
-
-
-## 🌟 About AetherGuard
-
-AetherGuard is a sleek, secure, and open-source password manager, built for privacy advocates and security enthusiasts alike. Powered by modern technologies and licensed under the GPLv3, AetherGuard champions freedom and user autonomy in the digital age. Say goodbye to proprietary password managers and embrace full control over your digital security. ✊
 
 ---
 
-## 🚀 Features
+## 🌟 Vision
 
-- **Cross-Platform**: Available on Windows, macOS, and Linux.
-- **Argon2 Hashing**: Utilizes advanced Argon2 hashing algorithm to protect passwords against brute force attacks.
-- **User-Friendly Interface**: Clean and intuitive interface built with HTML, CSS, and JavaScript.
-- **SQLite Database**: Lightweight database for local storage, ensuring your data stays with you.
-- **Flask Backend**: Robust backend built on Python and Flask for handling data securely.
+AetherGuard isn't just another password manager – it's your digital sanctuary. Built with privacy at its core and security in its DNA, it stands as a testament to what open-source software can achieve. Say goodbye to proprietary solutions and embrace true digital autonomy.
 
----
+## ⚡ Key Features
 
-## 🛠️ Tech Stack
+<table>
+<tr>
+<td width="50%">
 
-| Tech | Description |
-|------|-------------|
-| ![Python](https://img.shields.io/badge/-Python-3776AB) | Backend logic |
-| ![Flask](https://img.shields.io/badge/-Flask-000000) | Web server |
-| ![SQLite](https://img.shields.io/badge/-SQLite-003B57) | Local database storage |
-| ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E) | Frontend scripting |
-| ![HTML5](https://img.shields.io/badge/-HTML5-E34F26) | Markup language |
-| ![CSS3](https://img.shields.io/badge/-CSS3-1572B6) | Styling |
+### 🔐 Security First
+- **Military-grade AES-256 Encryption**
+- **Argon2 Password Hashing**
+- **Secure Password Generation**
 
----
+### 💻 Technical Excellence
+- **Cross-Platform Compatibility**
+- **Lightweight SQLite Database**
+- **Robust Flask Backend**
+- **Modern Web Technologies**
+
+</td>
+<td width="50%">
+
+### 🎯 User Experience
+- **Intuitive Interface**
+- **Quick Access**
+- **Customizable Categories**
+
+### 🛡️ Privacy Focus
+- **Local Storage Only**
+- **No Telemetry**
+- **Open Source**
+- **Fully Auditable**
+
+</td>
+</tr>
+</table>
+
+## 🛠️ Technology Stack
+
+<div align="center">
+
+| Category | Technologies |
+|----------|-------------|
+| **Backend** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) |
+| **Database** | ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) |
+| **Frontend** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
+| **Security** | ![AES-256](https://img.shields.io/badge/AES--256-569A31?style=for-the-badge&logo=shield&logoColor=white) ![Argon2](https://img.shields.io/badge/Argon2-4B275F?style=for-the-badge&logo=shield&logoColor=white) |
+
+</div>
 
 ## 🚀 Quick Start
 
@@ -67,6 +95,7 @@ AetherGuard is a sleek, secure, and open-source password manager, built for priv
    ```
    python run.py
    ```
+
 ---
 
 ## 💭 Why Open Source?
@@ -80,7 +109,6 @@ We believe that password management is too crucial to be left to proprietary sof
 - 🌍 **Everyone can contribute to making it better**
 - 🆓 **It's free forever, for everyone**
 
----
 
 ## 📜 License
 <p align="center">
@@ -92,28 +120,33 @@ AetherGuard is proudly licensed under the GNU General Public License v3.0 - see 
 
 ---
 
-## 🌟 Support the Project
-
-If you find AetherGuard useful, consider:
-
-- ⭐ **Starring this repository**
-- 🐛 **Reporting bugs**
-- 💡 **Suggesting new features**
-- 🤝 **Contributing code**
-- 📣 **Spreading the word**
-
----
-
+## 🤝 Support AetherGuard
+<table>
+<tr>
+<td width="130px" align="center">
+⭐<br>Star Us
+</td>
+<td width="130px" align="center">
+🐛<br>Report Bugs
+</td>
+<td width="130px" align="center">
+💡<br>Share Ideas
+</td>
+<td width="130px" align="center">
+🔧<br>Contribute
+</td>
+<td width="130px" align="center">
+📢<br>Spread the Word
+</td>
+</tr>
+</table>
 
 ## 📞 Contact
+📧 Arnab Das - arnab.das@g.bracu.ac.bd
 
-Arnab Das - arnab.das@g.bracu.ac.bd
+🔗 Project: github.com/thisisarnabdas/AetherGuard
 
-Project Link: https://github.com/thisisarnabdas/AetherGuard
-
----
-<p align="center">
-  Made with ❤️ by ARNAB
-</p>
-
+<div align="center">
+  <sub>Crafted with ❤️ by ARNAB</sub>
+</div>
 
