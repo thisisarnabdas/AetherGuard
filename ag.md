@@ -1,5 +1,4 @@
-
-```markdown
+<div align="center">
   
 # 🛡️ AetherGuard
 
@@ -7,6 +6,7 @@
   <img src="https://github.com/thisisarnabdas/AetherGuard/blob/main/logo.png" alt="AetherGuard" width="500"/>
 </p>
 
+<div align="center">
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
@@ -92,76 +92,3 @@ pip install -r requirements.txt
 
 # Launch AetherGuard
 python run.py
-```
-
-## 💭 Why Choose Open Source?
-
-<div align="center">
-
-> *"Privacy is not about having something to hide. Privacy is about having something to protect."*
-
-</div>
-
-In a world where digital privacy is increasingly precious, we believe in:
-
-- 🔍 **Complete Transparency**: Every line of code is open for inspection
-- ⚡ **Rapid Security Updates**: Community-driven vulnerability detection
-- 🌍 **Collective Innovation**: Everyone can contribute to a safer digital future
-- 🆓 **Perpetual Freedom**: Free forever, no hidden costs or subscriptions
-
-## 📜 License
-
-<div align="center">
-<img src="https://www.gnu.org/graphics/gplv3-with-text-136x68.png" alt="GPL v3 Logo"/>
-
-Licensed under [GNU General Public License v3.0](./LICENSE)
-</div>
-
-## 🤝 Support AetherGuard
-
-<table>
-<tr>
-<td width="130px" align="center">
-⭐<br>Star Us
-</td>
-<td width="130px" align="center">
-🐛<br>Report Bugs
-</td>
-<td width="130px" align="center">
-💡<br>Share Ideas
-</td>
-<td width="130px" align="center">
-🔧<br>Contribute
-</td>
-<td width="130px" align="center">
-📢<br>Spread the Word
-</td>
-</tr>
-</table>
-
-## 📞 Contact
-
-📧 **Arnab Das** - arnab.das@g.bracu.ac.bd
-
-🔗 **Project**: [github.com/thisisarnabdas/AetherGuard](https://github.com/thisisarnabdas/AetherGuard)
-
----
-
-<div align="center">
-  <sub>Crafted with ❤️ by ARNAB</sub>
-</div>
-```
-
-This code uses standard markdown syntax along with some HTML for enhanced formatting. When placed in a README.md file on GitHub, it will render with all the styling and formatting shown in the previous example. The badges and images will be displayed properly as long as the referenced URLs are accessible.
-
-Key features of this markdown:
-1. Uses HTML tables for complex layouts
-2. Incorporates shields.io badges for technology stack
-3. Uses emojis for visual appeal
-4. Maintains clean spacing and organization
-5. Uses HTML center alignment for key sections
-6. Includes proper heading hierarchy
-7. Uses markdown tables where appropriate
-8. Incorporates blockquotes for emphasis
-
-Would you like me to explain any specific part of the markdown or make any adjustments to the formatting?
