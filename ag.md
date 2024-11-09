@@ -37,7 +37,6 @@ AetherGuard isn't just another password manager – it's your digital sanctuary.
 ### 🔐 Security First
 - **Military-grade AES-256 Encryption**
 - **Argon2 Password Hashing**
-- **Zero-knowledge Architecture**
 - **Secure Password Generation**
 
 ### 💻 Technical Excellence
@@ -52,7 +51,6 @@ AetherGuard isn't just another password manager – it's your digital sanctuary.
 ### 🎯 User Experience
 - **Intuitive Interface**
 - **Quick Access**
-- **Dark/Light Themes**
 - **Customizable Categories**
 
 ### 🛡️ Privacy Focus
@@ -80,15 +78,20 @@ AetherGuard isn't just another password manager – it's your digital sanctuary.
 
 ## 🚀 Quick Start
 
-```bash
-# Clone the repository
-git clone https://github.com/thisisarnabdas/AetherGuard.git
+1. Clone the repository:
+   ```
+   git clone https://github.com/thisisarnabdas/AetherGuard.git
+   ```
+2. Navigate to project directory:
+   ```
+   cd AetherGuard
+   ```
+3. Install dependencies
+   ```
+   pip install -r requirements.txt
+   ```
 
-# Navigate to project directory
-cd AetherGuard
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Launch AetherGuard
-python run.py
+4. Run the application
+   ```
+   python run.py
+   ```
