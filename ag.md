@@ -144,7 +144,7 @@ AetherGuard is proudly licensed under the GNU General Public License v3.0 - see 
 ## 📞 Contact
 📧 Arnab Das - arnab.das@g.bracu.ac.bd
 
-🔗 Project: github.com/thisisarnabdas/AetherGuard
+🔗 Project: https://www.github.com/thisisarnabdas/AetherGuard
 
 <div align="center">
   <sub>Crafted with ❤️ by ARNAB</sub>
