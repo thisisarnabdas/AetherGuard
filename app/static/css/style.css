@@ -576,3 +576,54 @@ button:active {
 .close-modal-btn:active {
   transform: translateY(1px);
 }
+.logo-icon {
+  width: 150px; /* Increase width as needed */
+  height: 100px; /* Increase height as needed */
+  margin-right: var(--spacing-sm); /* Spacing between the logo and text */
+  vertical-align: middle;
+}
+
+
+.edit-btn {
+  background: var(--primary);
+  color: var(--text);
+  padding: var(--spacing-xs) var(--spacing-md);
+  display: flex;
+  align-items: center;
+  gap: var(--spacing-xs);
+  border-radius: var(--radius-md);
+  font-size: 0.875rem;
+  font-weight: 600;
+  transition: all var(--transition-base); /* Smooth transition */
+  position: relative;
+  overflow: hidden;
+}
+
+.edit-btn::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(
+    90deg,
+    transparent,
+    hsl(0 0% 100% / 0.2),
+    transparent
+  );
+  transform: translateX(-100%) skewX(-15deg);
+  transition: transform 0.75s var(--ease-out);
+}
+
+.edit-btn:hover {
+  background: var(--primary-light);
+  transform: translateY(-2px);
+  box-shadow: var(--shadow-2);
+}
+
+.edit-btn:hover::before {
+  transform: translateX(100%) skewX(-15deg);
+}
+
+.edit-btn:active {
+  transform: translateY(1px);
+}
+
