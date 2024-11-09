@@ -119,3 +119,32 @@ AetherGuard is proudly licensed under the GNU General Public License v3.0 - see 
  file for details. This means you're free to use, modify, and distribute this software while keeping it open source.
 
 ---
+
+🤝 Support AetherGuard
+<table>
+<tr>
+<td width="130px" align="center">
+⭐<br>Star Us
+</td>
+<td width="130px" align="center">
+🐛<br>Report Bugs
+</td>
+<td width="130px" align="center">
+💡<br>Share Ideas
+</td>
+<td width="130px" align="center">
+🔧<br>Contribute
+</td>
+<td width="130px" align="center">
+📢<br>Spread the Word
+</td>
+</tr>
+</table>
+📞 Contact
+📧 Arnab Das - arnab.das@g.bracu.ac.bd
+🔗 Project: github.com/thisisarnabdas/AetherGuard
+
+<div align="center">
+  <sub>Crafted with ❤️ by ARNAB</sub>
+</div>
+```
