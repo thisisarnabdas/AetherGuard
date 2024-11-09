@@ -95,3 +95,16 @@ AetherGuard isn't just another password manager – it's your digital sanctuary.
    ```
    python run.py
    ```
+
+---
+
+## 💭 Why Open Source?
+
+> "Privacy is not about having something to hide. Privacy is about having something to protect."
+
+We believe that password management is too crucial to be left to proprietary software. By being open source:
+
+- 🔍 **Our code is transparent and auditable**
+- 🛠️ **Security vulnerabilities can be identified and fixed quickly**
+- 🌍 **Everyone can contribute to making it better**
+- 🆓 **It's free forever, for everyone**
